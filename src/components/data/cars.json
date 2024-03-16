@@ -1,0 +1,14 @@
+[
+  {
+    "id": 10000,
+    "name": "Corrado",
+    "brand": "Volkswagen",
+    "year": 1994
+  },
+  {
+    "id": 10001,
+    "name": "CX-9",
+    "brand": "Mazda",
+    "year": 2011
+  }
+]
